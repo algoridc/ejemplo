@@ -11,7 +11,7 @@ public class App
     public static void main( String[] args )
     {
 
-    	System.out.println( "prueba de GitHub") );
+    	System.out.println( "prueba desde eclipse") );
     	System.out.println( "Hola Mundo!"+teclado("escribe un entero") );
     }
     public static int teclado(String txt) {
