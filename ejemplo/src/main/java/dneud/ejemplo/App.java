@@ -11,7 +11,8 @@ public class App
     public static void main( String[] args )
     {
 
-        System.out.println( "Hola Mundo!"+teclado("escribe un entero") );
+    	System.out.println( "prueba de GitHub") );
+    	System.out.println( "Hola Mundo!"+teclado("escribe un entero") );
     }
     public static int teclado(String txt) {
         //este modulo es para no tener que repetir el scanner
